@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sam, and this account showcases some of the things I enjoy doing in my own time, as well as some of the more technical project work from my university degree.
 - 🔭 I'm currently working on a real-time chat program named WhatsChat.
-- 🌱 I’m currently learning Socket Programming
+- 🌱 I’m currently learning JSwing UI Development
 - 📫 How to reach me: samuelhalebusiness@gmail.com
 - 🎁 My work github: github.com/ww-samuel-hale
 
