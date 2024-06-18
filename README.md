@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sam, and this account showcases some of the things I enjoy doing in my own time, as well as some of the more technical project work from my university degree.
-- 🔭 I'm currently working on Fundamentals of C#
-- 🌱 I’m currently learning C# Syntax, Fundamentals, Data Structures and Algorithms in C#
+- 🔭 I'm currently working on CS61B UC Berkeley's Data Structures & Algorithm's course in C#, solving problems with Disjoint Sets
+- 🌱 I’m currently learning about framing unsolved problems into already solved problems (i.e. data structures and algorithms)
 - 📫 How to reach me: samuelhalebusiness@gmail.com
 - 🎁 My work github: github.com/ww-samuel-hale
 
